@@ -1,0 +1,8 @@
+{
+  "name": "tars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kevindurb/tars.git",
+  "author": "Kevin Durbin <kevindurb@gmail.com>",
+  "license": "MIT"
+}
