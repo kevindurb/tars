@@ -1,0 +1,13 @@
+{
+  "globals": {
+    "describe": true,
+    "test": true,
+    "expect": true
+  },
+  "extends": [
+    "recommended/node"
+  ],
+  "rules": {
+    "import/no-commonjs": "off"
+  }
+}

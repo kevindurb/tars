@@ -4,5 +4,21 @@
   "main": "index.js",
   "repository": "git@github.com:kevindurb/tars.git",
   "author": "Kevin Durbin <kevindurb@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "engines": {
+    "node": ">=7"
+  },
+  "dependencies": {
+    "jest": "^21.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-esnext": "^1.6.0",
+    "eslint-config-recommended": "^1.5.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
 }
