@@ -1,6 +1,6 @@
 {
-  "name": "tars",
-  "version": "1.0.0",
+  "name": "tars-bot",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:kevindurb/tars.git",
   "author": "Kevin Durbin <kevindurb@gmail.com>",
@@ -12,13 +12,12 @@
   "engines": {
     "node": ">=7"
   },
-  "dependencies": {
-    "jest": "^21.2.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^4.8.0",
     "eslint-config-esnext": "^1.6.0",
     "eslint-config-recommended": "^1.5.0",
-    "eslint-plugin-import": "^2.7.0"
+    "eslint-plugin-import": "^2.7.0",
+    "jest": "^21.2.1"
   }
 }
