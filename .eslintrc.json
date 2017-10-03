@@ -2,12 +2,14 @@
   "globals": {
     "describe": true,
     "test": true,
-    "expect": true
+    "expect": true,
+    "jest": true
   },
   "extends": [
     "recommended/node"
   ],
   "rules": {
-    "import/no-commonjs": "off"
+    "import/no-commonjs": "off",
+    "import/no-nodejs-modules": "off"
   }
 }
